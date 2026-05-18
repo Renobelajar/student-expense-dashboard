@@ -1,39 +1,21 @@
-# Student Expense Dashboard
+# Student Expense Analysis
 
-Data analysis dashboard project for monitoring and visualizing student expenses.
+Simple data analysis project for analyzing student spending patterns using Python.
 
 ## Features
-- Expense data input
-- Expense category management
-- Data visualization dashboard
-- Monthly expense analysis
-- Spending statistics
-- Interactive charts
-
-## Expense Categories
-- Food
-- Transportation
-- Internet
-- Shopping
-- Entertainment
-- Education
+- Expense data analysis
+- Spending category analysis
+- Data visualization
+- Monthly spending statistics
 
 ## Technologies
 - Python
-- Streamlit
 - Pandas
-- Matplotlib / Plotly
+- Matplotlib
+- Jupyter Notebook
 
-## Dashboard Functions
-- Add expense data
-- Analyze spending patterns
-- Display expense charts
-- Show monthly statistics
-- Monitor spending categories
-
-## Project Workflow
-1. User inputs expense data
-2. Data is processed using Python
-3. Expense categories are analyzed
-4. Dashboard generates visual charts
-5. System displays spending insights
+## Analysis
+- Total expenses
+- Category comparison
+- Spending trends
+- Expense visualization
